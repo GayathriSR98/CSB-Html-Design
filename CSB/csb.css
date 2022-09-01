@@ -1,0 +1,85 @@
+.csb-bank{
+    color: rgb(46, 46, 160);
+    font-size: 50px;
+}
+.bg-head{
+    background-color:  rgb(46, 46, 160);
+    padding: 150px;
+}
+.bold-head{
+    color: #fff;
+    font-size: 80px;
+}
+.sub-head{
+    color: rgb(209, 91, 49);
+    font-size: 50px;
+}
+.blue-box {
+    background: #0a0c8d;
+    padding: 20px; 
+    width: 300px;
+    height: 250px;  
+    color: #0a0c8d;
+  }
+ .image-fluid{
+    position: absolute;
+    height: 400px;
+    width: 350px;
+    z-index: 9;
+    bottom: 0;
+    left: 120px;
+    top: 637px;
+ } 
+.para-head{
+    font-size: 28px;
+    color: #0a0c8d;
+    text-align: center;
+} 
+.about{
+    font-size: 28px;
+    color: rgb(209, 91, 49);  
+    text-align: center;  
+}
+.para-details{
+    color: #0a0c8d;
+    line-height: 32px; 
+    align-content  : center;
+}
+.flex-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+.highlights{
+    font-size: 28px;
+    color: rgb(209, 91, 49);  
+}
+.fy22{
+    font-size: 28px;
+    color: #0a0c8d;  
+}
+.flex-count{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+}
+.flex-wrap{
+  background-image: url("assets/Images/sky.jpg");
+  background-color: #cccccc;
+  height: 350px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.bold-text-white{
+  font-size: 16px;
+  color:#fff;
+}
+.bold-text-orange{
+    font-size: 16px;
+    color: rgb(209, 91, 49);
+}
